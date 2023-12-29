@@ -9,4 +9,4 @@ st.image("https://animaders.com/wp-content/uploads/2021/10/Tom-and-Jerry-Cartoon
 st.video("https://youtu.be/AGBjI0x9VbM?si=M34MEMScBz7EjkKe")
 img = st.file_uploader("Upload image")
 st.image(img)
-
+ 
